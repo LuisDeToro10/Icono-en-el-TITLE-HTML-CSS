@@ -1,0 +1,35 @@
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    margin: 0 auto;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #9C6644;
+    color: #E6CCB2;
+}
+
+.icono {
+    width: 50%;
+    text-align: center;
+    margin: 30px auto;
+    padding: 15px;
+    border-radius: 14px;
+    background-color: #B08968;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+    transition: ease-in-out 0.5s;
+}
+
+.icono:hover {
+    transform: scale(1.05);
+}
+
+img {
+    width: 70%;
+    margin: 10px;
+    border-radius: 14px;
+}
+
+a {
+    color: #EDE0D4;
+    font-size: larger;
+}
